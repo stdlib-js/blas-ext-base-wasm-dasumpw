@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-08-07)
+## Unreleased (2026-09-01)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`65754cb`](https://github.com/stdlib-js/stdlib/commit/65754cb6879fb53a5ce7c2f3f203dc492ded8ae1) - **docs:** remove unnecessary require statements [(#14856)](https://github.com/stdlib-js/stdlib/pull/14856) _(by Philipp Burckhardt)_
 -   [`8fcdf1e`](https://github.com/stdlib-js/stdlib/commit/8fcdf1e5a7c139534a0dbf9932efc5d3ff31870b) - **build:** add scripts to insert license headers [(#13483)](https://github.com/stdlib-js/stdlib/pull/13483) _(by Prashant Kumar Yadav)_
 -   [`706b1d1`](https://github.com/stdlib-js/stdlib/commit/706b1d14d18bf258722fb38fcf42c1732ab3209d) - **style:** fix require order _(by Athan Reines)_
 -   [`cd99d80`](https://github.com/stdlib-js/stdlib/commit/cd99d8072389d37a05848951926c3fe51da19832) - **docs:** propagate fixes to sibling packages [(#11843)](https://github.com/stdlib-js/stdlib/pull/11843) _(by Philipp Burckhardt)_
